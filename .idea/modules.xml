@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tangpengcheng.iml" filepath="$PROJECT_DIR$/.idea/modules/tangpengcheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tangpengcheng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tangpengcheng_main.iml" group="tangpengcheng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tangpengcheng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tangpengcheng_test.iml" group="tangpengcheng" />
     </modules>
   </component>
 </project>
